@@ -1,0 +1,16 @@
+# Python 虚拟环境与缓存
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+
+# 日志与临时文件
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
